@@ -1,0 +1,23 @@
+# Purpose
+This document contains the Linux issues I encountered while learning system administration, how I diagnosed each issue, how I resolved it, and what I learned from the experience.
+## Current Status
+This document will continue to grow as I gain more experience administering Linux systems, deploying enterprise services, and troubleshooting real-world issues within my homelab.
+
+### Challenges Encountered
+- Problem 1
+I wanted to try to learn to navigate Linux without a Graphical Interface. Ubuntu Server primarily relies on the command line and completing administrative tasks without a graphical interface was unfamiliar and required learning a new workflow. The reason why I wanted to learn this is because some enterprise linux servers are commonly deployed without a desktop environment to improve performance.
+
+- Resolution
+I practiced using the Bash shell to navigate directories, create and manage files, edit configuration files, update the operating system and helped me become more comfortable with Linux administration.
+
+- What I Learned
+Command-line proficiency is one of the most important skills for Linux administrators and cybersecurity professionals because many enterprise systems are managed remotely through a terminal. Using the command line provides direct control over the operating system and will help me to become more comfortable with Linux administration.
+
+-Problem 2
+Initially, I could execute Linux commmands by "read and recite", but to fully understand what they did or when they should be used became the challenge.
+
+-Resolution
+Rather than memorizing commands, I ran myself through multiple different scenarios. Simultaneously, I focused on learning each command's purpose, syntax, practical use, and how it applies to enterprise environments.
+
+-What I Learned
+Successful Linux administration is based on understanding how commands affect the operating system, not simply remembering command names. Understanding the "why" behind each command will improve problem-solving abilities and build confidence when working on Linux systems.
