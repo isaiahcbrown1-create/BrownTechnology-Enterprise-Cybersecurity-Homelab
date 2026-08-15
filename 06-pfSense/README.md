@@ -32,5 +32,5 @@ Host OS- macOS Monterey
 
       #### Current Status
       pfSense Installed? Complete
-      Firewall Administration? In Progress
+      Firewall Administration? Created least-privilege firewall rule allowing the management host to access the pfSense WebGUI over HTTPS.
   
